@@ -1,0 +1,571 @@
+[
+  {
+    "title": "World Kite - Residency & Tax Tracker",
+    "start": "2019-02-11",
+    "ongoing": false,
+    "description": "While working as a lead mobile developer at <a href='http://studio14online.co.uk/'>Studio 14</a>, I developed an application which helps travels track their tax & residency requirements. The application makes use of background location services to track users movements as they travel, and is smart enough to generate statistics about their travel history, as well as automatically create trip records and reminders as they move between countries.",
+    "actions": {
+      "Website": "https://www.worldkite.co.uk/",
+      "Google Play": "https://play.google.com/store/apps/details?id=uk.co.worldkite.android",
+      "Apple App Store": "https://apps.apple.com/gb/app/world-kite-residency-tracker/id1519750444"
+    },
+    "pages": [
+      {
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/new/World%20Kite/worldkite_1.png",
+        "content_type":"image",
+        "content": "https://storage.googleapis.com/joey-ng.appspot.com/portfolio/new/World%20Kite/worldkite_1.png",
+        "background_color": "#DEDEDE"
+      },
+      {
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/new/World%20Kite/worldkite_2.png",
+        "content_type":"image",
+        "background_color": "#DEDEDE"
+      },
+      {
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/new/World%20Kite/worldkite_3.png",
+        "content_type":"image",
+        "background_color": "#DEDEDE"
+      },
+      {
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/new/World%20Kite/worldkite_4.png",
+        "content_type":"image",
+        "background_color": "#DEDEDE"
+      },
+      {
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/new/World%20Kite/worldkite_5.png",
+        "content_type":"image",
+        "background_color": "#DEDEDE"
+      },
+      {
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/new/World%20Kite/worldkite_6.png",
+        "content_type":"image",
+        "background_color": "#DEDEDE"
+      },
+      {
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/new/World%20Kite/worldkite_7.png",
+        "content_type":"image",
+        "background_color": "#DEDEDE"
+      }
+    ]
+  },
+  {
+    "title": "TELA Educational App (USAID Sponsored)",
+    "start": "2016-01-01",
+    "ongoing": false,
+    "description": "As a student at the <a href='http://aun.edu.ng/'>American University of Nigeria</a>, I led a team of 3 developers to build an interactive application which was used to teach vulnerable children basic literacy and numeracy. The project was designed with huge attention to UI/UX and to be as animated and fun as possible while easy to use. It also featured vocal feedback in the local dialect (Hausa). <br>At the end of the project, we we're able to reach about 20,000 students.</a>",
+    "actions": {
+      "Website": "https://unrh.org/tela/"
+    },
+    "pages": [
+      {
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/new/Tela%20-%20USAID/tela_large_game.png",
+        "content_type":"image",
+        "content": "https://storage.googleapis.com/joey-ng.appspot.com/portfolio/new/Tela%20-%20USAID/tela_large_game.png",
+        "background_color": "#000000"
+      },
+      {
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/new/Tela%20-%20USAID/tela_large_home.png",
+        "content_type":"image",
+        "background_color": "#000000"
+      },
+      {
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/new/Tela%20-%20USAID/tela_large_sketch.png",
+        "content_type":"image",
+        "background_color": "#000000"
+      }
+    ]
+  },
+  {
+    "title": "Freshcrop - Photo Slides App",
+    "start": "2019-08-01",
+    "ongoing": false,
+    "description": "At XQCreative, I worked with american actor and musician <a href='https://en.wikipedia.org/wiki/Quincy_(actor)'>Quincy Brown</a> to develop Freshcrop. The app allows you to split photo's into continuous slides and which create a paging-effect when uploaded to applications such as instagram.",
+    "actions": {
+      "Apple Appstore": "https://apps.apple.com/us/app/fresh-crop/id1450899186",
+      "Google Play": "https://play.google.com/store/apps/details?id=com.xqcrtve.freshcrop&hl=en&gl=US"
+    },
+    "pages": [
+      {
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/new/Freshcrop/freshcrop_intro_thumb.png",
+        "content_type":"video",
+        "content": "https://storage.googleapis.com/joey-ng.appspot.com/portfolio/new/Freshcrop/freshcrop_intro.mp4",
+        "background_color": "#000000"
+      },
+      {
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/new/Freshcrop/freshcrop_1.png",
+        "content_type":"image",
+        "background_color": "#C12033"
+      },
+      {
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/new/Freshcrop/freshcrop_2.png",
+        "content_type":"image",
+        "background_color": "#C12033"
+      },
+      {
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/new/Freshcrop/freshcrop_3.png",
+        "content_type":"image",
+        "background_color": "#000000"
+      }
+    ]
+  },
+  {
+    "title": "Google: Associate Android Developer - Expert (PluralSight)",
+    "start": "2018-10-19",
+    "description": "I measured my <a>PluralSight IQ</a> in the Associate Android developer program, scoring an IQ of <b>269/300</b>, and doing better than <b>98%</b> of my peers worldwide.",
+    "actions": {
+      "Visit Website": "https://pluralsight.com"
+    },
+    "pages": [
+      {
+        "thumbnail": "https://storage.googleapis.com/joey-ng.appspot.com/portfolio/pluralsight/kClfz.png",
+        "content_type": "image",
+        "background_color": "#231F20"
+      }
+    ]
+  },
+  {
+    "title": "Android - Expert (PluralSight)",
+    "start": "2018-05-19",
+    "description": "I measured my <a>PluralSight IQ</a> in Android development, scoring an IQ of <b>243/300</b>, and doing better than <b>94%</b> of my peers worldwide.",
+    "actions": {
+      "Visit Website": "https://pluralsight.com"
+    },
+    "pages": [
+      {
+        "thumbnail": "https://storage.googleapis.com/joey-ng.appspot.com/portfolio/pluralsight/WZCKs.png",
+        "content_type": "image",
+        "background_color": "#231F20"
+      }
+    ]
+  },
+  {
+    "title": "Otium Circle",
+    "start": "2018-07-01",
+    "ongoing": false,
+    "description": "Over the summer, I started working remotely at <a href=https://simpleinapps.com target=_blank>simpleinapps</a> a startup in the United Kingdom building apps for lifestyle businesses. <br><br>I developed an Android version of their existing iOS application, and have continued since then to work as the Lead Android developer.",
+    "actions": {
+      "Google Play": "https://play.google.com/store/apps/details?id=com.simpleinapps.android",
+      "Apple Appstore": "https://apps.apple.com/gb/app/simpleinapps/id1358702776",
+      "Website": "https://otiumcircle.com"
+    },
+    "pages": [
+      {
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/new/Otium%20Circle/oc_1.png",
+        "content_type":"image",
+        "background_color": "#DEDEDE"
+      },
+      {
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/new/Otium%20Circle/oc_4.png",
+        "content_type":"image",
+        "background_color": "#FBBF06"
+      },
+      {
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/new/Otium%20Circle/oc_6.png",
+        "content_type":"image",
+        "background_color": "#281E48"
+      },
+      {
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/new/Otium%20Circle/oc_7.png",
+        "content_type":"image",
+        "background_color": "#CA017F"
+      },
+      {
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/new/Otium%20Circle/oc_8.png",
+        "content_type":"image",
+        "background_color": "#FBBF06"
+      },
+      {
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/new/Otium%20Circle/oc_9.png",
+        "content_type":"image",
+        "background_color": "#281E48"
+      }
+    ]
+  },
+  {
+    "title": "Stallion Life - Android & iOS",
+    "start": "2018-02-01",
+    "ongoing": false,
+    "description": "<p>As a mobile developer at <a href=https://tech.vema.com.ng target=_blank>VEMA Technologies</a>, I was in charge of building an app for students at the American University of Nigeria. </p><p>I handled Android & iOS development, and also mobile backend development. I also pitched in from time to time working with our web developer in fine-tuning a few features.</p><p>NOTE: This app is only available to students at the <a href='http://www.aun.edu.ng' target='_blank'>American University of Nigeria</a></p>",
+    "actions": {
+      "Google Play": "https://play.google.com/store/apps/details?id=ng.edu.aun.stallionlife.android",
+      "App store (iOS)": "https://itunes.apple.com/us/app/stallion-life/id1444323247?ls=1&mt=8",
+      "Visit Website": "https://stallionlife.herokuapp.com/"
+    },
+    "pages": [
+      {
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/stallion-life/home_thumb.png",
+        "content_type":"video",
+        "content":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/stallion-life/home.mp4",
+        "device":"device-nexus5_light"
+      },
+      {
+        "description":"I prepared a simple and colorful landing page for the apps home page",
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/stallion-life/landing_web.png",
+        "content_type":"image",
+        "device":"device-browser_light"
+      },
+      {
+        "description":"Instant chat messaging for students and student groups",
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/stallion-life/group_messaging_thumb.png",
+        "content_type":"video",
+        "content":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/stallion-life/group_messaging.mp4",
+        "device":"device-nexus5_light"
+      },
+      {
+        "description":"A calendar integrated with classes, locations and campus events, helps students stay on track.",
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/stallion-life/calendar_thumb.png",
+        "content_type":"video",
+        "content":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/stallion-life/calendar.mp4",
+        "device":"device-nexus5_light"
+      }
+    ]
+  },
+  {
+    "title": "SkoutBox - Music Streaming & Social Network",
+    "start": "2018-01-01",
+    "end": "2018-05-28",
+    "ongoing": false,
+    "description": "<p>I recently finished a side project for a friends startup. It's a music playing & sharing app with a fully functional social network and instant chat messaging.</p><p>SkoutBox provides a flexible platform for local artists to grow their music, earn from it and connect with their fans.</p>",
+    "actions": {
+      "Google Play": "https://play.google.com/store/apps/details?id=com.skoutbox.android",
+      "Visit Website": "http://skoutbox.fun/"
+    },
+    "pages": [
+      {
+        "description":"Upload and stream music, albums, EP's and a whole lot more",
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/skoutbox/music.png",
+        "content_type":"video",
+        "content":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/skoutbox/music.mp4",
+        "device":"device-nexus5_light"
+      },
+      {
+        "description":"Social networking lets you share and talk about your favorite music and videos as well",
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/skoutbox/floating.png",
+        "content_type":"video",
+        "content":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/skoutbox/social.mp4",
+        "device":"device-nexus5_light"
+      },
+      {
+        "description":"I implemented a floating navigation bar that responds to give way when you're scrolling.",
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/skoutbox/floating.png",
+        "content_type":"no-scale video",
+        "style":"transform: translate(0, -30%);",
+        "content":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/skoutbox/floating.mp4",
+        "device":"device-nexus5_light"
+      },
+      {
+        "description":"Don't miss out on anything with instant notifications.",
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/skoutbox/notifications.png",
+        "content_type":"no-scale image",
+        "style":"transform: translate(0, 30%);",
+        "device":"device-nexus5_light"
+      },
+      {
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/skoutbox/profile.png",
+        "content_type":"video",
+        "content":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/skoutbox/profile.mp4",
+        "device":"device-nexus5_light"
+      }
+    ]
+  },
+  {
+    "title": "SideLock - Android Screen-lock Widget",
+    "start": "2018-05-18",
+    "ongoing": false,
+    "description":"<p>I recently took a day off to build an open-source widget for locking my phone screen.</p>With a broken power button, I had no other means of locking my phone.</p><p>I learnt how to use the <a href='https://developer.android.com/reference/android/view/WindowManager' target='_blank'>Window Manager</a> to draw over other apps which is something I hadn't tried out before.</p>",
+    "actions": {
+      "Google Play": "https://play.google.com/store/apps/details?id=io.github.josephdalughut.sidelock.android",
+      "Source Code": "https://github.com/josephdalughut/sidelock"
+    },
+    "pages": [
+      {
+        "description": "A floating widget that lets you lock your screen without needing the power button.",
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/sidelock/home.png",
+        "content_type":"video",
+        "content":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/sidelock/home.mp4",
+        "device":"device-nexus5_light"
+      },
+      {
+        "description": "The widget is also draggable, and doubles as a <a href='https://developer.android.com/reference/android/support/design/widget/FloatingActionButton' target='_blank'>Floating Action Button</a>, settling seamlessly between the app's UI to its last position on your phone screen.",
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/sidelock/drag.png",
+        "content_type":"video",
+        "content":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/sidelock/draggable.mp4",
+        "device":"device-nexus5_light"
+      },
+      {
+        "description": "You can also lock via the notification tray",
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/sidelock/status.png",
+        "content_type":"video",
+        "content":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/sidelock/status.mp4",
+        "device":"device-nexus5_light"
+      }
+    ]
+  },
+  {
+    "title": "Google Cloud Vision API - Java Wrapper (Open Source)",
+    "start": "2017-06-04",
+    "ongoing": false,
+    "description":"<p>A client's request for an app feature letting users find items from camera snapshots introduced me to Google's <a href='https://cloud.google.com/vision/' target='_blank'>Cloud Vision API</a>.</p><p>As someone who values reusable code, I abstracted most of the API features into a tiny wrapper for JAVA that handles making & parsing JSON requests & responses to the Vision API using a few lines of code.</p>",
+    "actions": {
+      "Source Code": "https://github.com/josephdalughut/googlecloudvision-api-java",
+      "Vision API Web-page": "https://cloud.google.com/vision/"
+    }
+  },
+  {
+    "title": "Laravel Portfolio - (This Portfolio - Open Source)",
+    "start": "2018-07-02",
+    "ongoing": false,
+    "description":"<p>I ported this portfolio originally by Google desgn advocate <a href='https://roman.nurik.net/'>Roman Nurik</a> to Laravel PHP. It's free opensource, and easy to setup and start running.</p>",
+    "actions": {
+      "Source Code": "https://github.com/josephdalughut/laravel-portfolio"
+    }
+  },
+  {
+    "title": "PQ - Examinations & Assessments app",
+    "start": "2017-08-01",
+    "end": "2017-11-01",
+    "description":"<p>At <a href='http://www.quanteq.com/' target='_blank'>Quanteq</a>, I built some amazing applications on contract, however one of my most memorable was an application for administering and practicing examinations, tests and assessments.<p>P.Q. lets you download and solve past questions either locally, over bluetooth while challenging friends, or take timed assessments across enabled centers online.</p><p>I built a lot of custom views and animations for the application, I also had a first shot at using Android's <a href='https://developer.android.com/guide/topics/connectivity/bluetooth' target='_blank'>bluetooth API's</a>.</p>",
+    "actions": {
+      "Application Homepage": "http://pqtests.xyz/",
+      "Quanteq Website": "http://www.quanteq.com/"
+    },
+    "pages": [
+      {
+        "description": "A simple homepage shows you a few featured examinations as well as several categories.",
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/pq/home.png",
+        "content_type":"image",
+        "device":"device-nexus5_light"
+      },
+      {
+        "description":"I designed the logo, with custom animations entirely built with Android ui components (views) using the <a href='https://developer.android.com/training/animation/overview' target='_blank'>Android animation framework</a><br>Notice how the eyes represent the word <strong>P Q</strong>",
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/pq/logo.png",
+        "content_type":"no-scale video",
+        "content":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/pq/logo.mp4",
+        "device":"device-nexus5_light"
+      },
+      {
+        "description":"Also notice how the buttons, search-bars and other views are styled to emphasize the letters <strong>P</strong> and <strong>Q</strong>",
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/pq/pq_style.png",
+        "content":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/pq/pq_style.mp4",
+        "content_type":"no-scale video",
+        "style":"transform: translate(0, 30%);",
+        "device":"device-nexus5_light"
+      },
+      {
+        "description":"We made use of <a target='_blank' href='https://www.khanacademy.org/'>KHAN Academy's</a> <a href='https://github.com/Khan/KaTeX' target='_blank'>Katex</a> library for rendering questions & answers. <br>As usual, I threw in a few animations to enhance the experience.",
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/pq/exam.png",
+        "content":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/pq/exam.mp4",
+        "content_type":"video",
+        "device":"device-nexus5_light"
+      },
+      {
+        "description":"You also get the solutions at the end",
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/pq/solutions.png",
+        "content":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/pq/solutions.mp4",
+        "content_type":"video",
+        "device":"device-nexus5_light"
+      },
+      {
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/pq/bluetooth.png",
+        "content":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/pq/bluetooth.mp4",
+        "content_type":"video",
+        "device":"device-nexus5_light"
+      },
+      {
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/pq/center.png",
+        "content":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/pq/center.mp4",
+        "content_type":"video",
+        "device":"device-nexus5_light"
+      }
+    ]
+  },
+  {
+    "title": "Fees Monitor - School Fee Management System",
+    "start": "2017-09-01",
+    "end": "2017-12-31",
+    "description":"<p>I worked on contract to build a school-fee management for <a href='https://www.simplyexponential.com/' target='_blank'>Simply Exponential Consult LTD</a></p><p>Fees Monitor helps Nigerian schools automate their school fees management processes with built-in features such as statistics and reporting.</p><p>I developed the Android application. I also helped out with a few features on the web portal.</p>",
+    "actions": {
+      "Google Play": "https://play.google.com/store/apps/details?id=com.feesmonitor.android",
+      "Website": "http://www.feesmonitor.com/"
+    },
+    "pages": [
+      {
+        "description":"Landing page designed by me",
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/feesmonitor/landing.png",
+        "content_type":"image",
+        "device":"device-browser_light"
+      },
+      {
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/feesmonitor/app_portal.png",
+        "content_type":"image"
+      }
+    ]
+  },
+  {
+    "title": "Flappy Yeet (2D-Game)",
+    "start": "2014-04-01",
+    "description":"<p>After a few months learning Android development, I made a clone of the <a href='https://en.wikipedia.org/wiki/Flappy_Bird' target='_blank'>Flappy Bird</a> game featuring the <a href='https://www.youtube.com/watch?v=xUEqDQOjAlA' target='_blank'>Yeet Kid</a>.</p><p>It turned out to be one of my most successful apps, going viral in the U.S.A and reaching over <strong>4000</strong> downloads daily.</p><p>It currently has over <strong>200,000</strong> downloads.</p>",
+    "actions": {
+      "Install App": "https://play.google.com/store/apps/details?id=inc.meengle.flappy_yeet"
+    },
+    "pages": [
+      {
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/flappyyeet/playing.png",
+        "content_type":"video",
+        "content":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/flappyyeet/playing.mp4",
+        "device":"device-nexus5_light"
+      }
+    ]
+  },
+  {
+    "title": "Flappy Yeet (2D-Game)",
+    "start": "2014-04-01",
+    "description":"<p>After a few months learning Android development, I made a clone of the <a href='https://en.wikipedia.org/wiki/Flappy_Bird' target='_blank'>Flappy Bird</a> game featuring the <a href='https://www.youtube.com/watch?v=xUEqDQOjAlA' target='_blank'>Yeet Kid</a>.</p><p>It turned out to be one of my most successful apps, going viral in the U.S.A and reaching over <strong>4000</strong> downloads daily.</p><p>It currently has over <strong>200,000</strong> downloads.</p>",
+    "actions": {
+      "Install App": "https://play.google.com/store/apps/details?id=inc.meengle.flappy_yeet"
+    },
+    "pages": [
+      {
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/flappyyeet/playing.png",
+        "content_type":"video",
+        "content":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/flappyyeet/playing.mp4",
+        "device":"device-nexus5_light"
+      }
+    ]
+  },
+  {
+    "title": "About A Week Ago - Sound app",
+    "start": "2014-12-01",
+    "description":"<p>I once made an app to troll my roommate back in school. I had finished my examinations a week before he did.</p><p>I would ask him to guess when I finished my exams and when I shake my phone, the app says <italic>About A Week Ago</italic> (a snippet from Bobby Shmurda's popular song 'Hot Nigga' that year).</p><p>I finally uploaded the app to Google Play where it got over <strong>10,000</strong> downloads.</p>",
+    "actions": {
+      "Install App": "https://play.google.com/store/apps/details?id=inc.meengle.boutaweekago"
+    },
+    "pages": [
+      {
+        "description": "The app has a few settings that let you fine-tune it",
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/aboutaweekago/home.png",
+        "content_type":"image",
+        "device":"device-nexus5_light"
+      }
+    ]
+  },
+  {
+    "title": "Agrimart - Online Grocery Shopping App",
+    "start": "2017-05-01",
+    "end": "2018-01-31",
+    "description":"<p>My family's passion for farming saw I and a brother of mine co-founding an online service to deliver fresh fruits & vegetables at the <a href='www.aun.edu.ng' target='_blank'>American University of Nigeria</a>.</p><p>I handled technology aspects of the project, building an Android application prototype and a website where customers could place their orders.</p><p>PS: The service is currently hiatus.</p>",
+    "pages": [
+      {
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/new/Agrimart/agrimart_1.png",
+        "content_type":"image",
+        "device":"device-nexus5_light"
+      },
+      {
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/new/Agrimart/agrimart_2.png",
+        "content_type":"image",
+        "device":"device-nexus5_light"
+      },
+      {
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/new/Agrimart/agrimart_3.png",
+        "content_type":"image",
+        "device":"device-nexus5_light"
+      },
+      {
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/new/Agrimart/agrimart_4.png",
+        "content_type":"image",
+        "device":"device-nexus5_light"
+      }
+    ]
+  },
+  {
+    "title": "Wireless Electric Plug (IoT & Machine Learning)",
+    "start": "2016-09-01",
+    "end": "2016-12-31",
+    "description":"<p>To fulfill my educational requirements at the <a href='www.aun.edu.ng' target='_blank'>American University of Nigeria</a>, I worked with a partner on my final school project to develop a smart electrical plug that could be controlled over the <a href='https://en.wikipedia.org/wiki/Internet_of_things' target='_blank'>Internet of Things</a>.</p><p>We also developed a companion Android application equipped with <a href='https://en.wikipedia.org/wiki/Machine_learning' target='_blank'>Machine Learning</a> capabilities to monitor and automate your usage of the plug.</p><p>The plug could automatically switch on your coffee maker at 8:00 am if there's a pattern of you doing so.</p>",
+    "actions": {
+      "Watch Video": "https://www.youtube.com/watch?v=a_GNighQTyM",
+      "Source Code": "https://github.com/josephdalughut/TINA3"
+    },
+    "pages": [
+      {
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/tina/home.jpg",
+        "content_type":"image",
+        "device":"device-nexus5_light"
+      },
+      {
+        "description":"I created an entire switch-like interface using only Android views (e.g CardView) and drawable gradients.",
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/tina/switch.jpg",
+        "content_type":"image",
+        "device":"device-nexus5_light"
+      },
+      {
+        "description":"Machine learning helps predict when next your device should be switched on/off. You can also create a custom schedule.",
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/tina/ml.jpg",
+        "content_type":"image",
+        "device":"device-nexus5_light"
+      }
+    ]
+  },
+  {
+    "title": "Answers - View Past Questions & Answers",
+    "start": "2017-07-04",
+    "description":"<p>In response to a twitter post asking for such an app, I built <strong>Answers</strong> to help students at the <a href='www.aun.edu.ng' target='_blank'>American University of Nigeria</a> find past questions to help them study for school tests and examinations.</p>",
+    "enabled": false,
+    "actions": {
+      "Google Play": "https://play.google.com/store/apps/details?id=ng.joey.answers.android"
+    },
+    "pages": [
+      {
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/answers/home.png",
+        "content_type":"image",
+        "device":"device-nexus5_light"
+      },
+      {
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/answers/question.png",
+        "content_type":"image",
+        "device":"device-nexus5_light"
+      }
+    ]
+  },
+  {
+    "title": "Nigerian Campus Express - Marketplace",
+    "start": "2017-11-04",
+    "end": "2018-01-31",
+    "description":"<p>I worked on contract for <a>Maigiwaye Limited</a> in developing an online inter-campus marketplace where students can advertise and sell items to other students.<p>The app includes a lot of features such as Instant Chat messaging, and made use of Google's <a href='https://cloud.google.com/vision/' target='_blank'>Vision API</a> to help students search for items using their camera.</p></p>",
+    "actions": {
+      "Google Play": "https://play.google.com/store/apps/details?id=com.campusexpress.android",
+      "Google Vision Wrapper Library": "https://github.com/josephdalughut/googlecloudvision-api-java"
+    },
+    "pages": [
+      {
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/campusexpress/home.png",
+        "content_type":"image",
+        "device":"device-nexus5_light"
+      },
+      {
+        "description":"The app included multiple categories for filtering.",
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/campusexpress/categories.png",
+        "content_type":"image",
+        "device":"device-nexus5_light"
+      },
+      {
+        "description":"You can message or call any seller directly",
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/campusexpress/advert%20view.png",
+        "content_type":"image",
+        "device":"device-nexus5_light"
+      },
+      {
+        "description":"You can also chat and share locations with sellers to schedule a meet",
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/campusexpress/product_chat.png",
+        "content_type":"image",
+        "device":"device-nexus5_light"
+      },
+      {
+        "description":"Taking a picture of an item you're looking for would bring up a list of similarly looking items",
+        "thumbnail":"https://storage.googleapis.com/joey-ng.appspot.com/portfolio/campusexpress/visual%20search.png",
+        "content_type":"image",
+        "device":"device-nexus5_light"
+      }
+    ]
+  }
+]
