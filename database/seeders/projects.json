@@ -3,7 +3,7 @@
     "title": "World Kite - Residency & Tax Tracker",
     "start": "2019-02-11",
     "ongoing": false,
-    "description": "While working as a lead mobile developer at <a href='http://studio14online.co.uk/'>Studio 14</a>, I developed an application which helps travels track their tax & residency requirements. The application makes use of background location services to track users movements as they travel, and is smart enough to generate statistics about their travel history, as well as automatically create trip records and reminders as they move between countries.",
+    "description": "While working as a lead mobile developer at <a href='http://studio14online.co.uk/'>Studio 14</a>, I developed an application which helps travels track their tax & residency requirements. The application makes use of background location services to track users movements as they travel, and is smart enough to generate statistics about their travel history, as well as automatically create trip records and reminders as they move between countries. \nWorld Kite currently has over /<b>10,000</b> downloads.",
     "actions": {
       "Website": "https://www.worldkite.co.uk/",
       "Google Play": "https://play.google.com/store/apps/details?id=uk.co.worldkite.android",

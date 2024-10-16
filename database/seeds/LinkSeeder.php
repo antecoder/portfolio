@@ -16,7 +16,7 @@ class LinkSeeder extends Seeder
     {
         //
         $this->save("StackOverflow", "https://stackoverflow.com/users/7029593/joey-dalu?tab=profile", "ic_stackoverflow.svg");
-        $this->save("Github", "https://github.com/josephdalughut", "ic_github.svg");
+        $this->save("Github", "https://github.com/antecoder", "ic_github.svg");
         $this->save("LinkedIn", "https://www.linkedin.com/in/josephdalughut", "ic_linkedin.svg");
         $this->save("Twitter", "https://twitter.com/antecoder", "ic_twitter.svg");
     }
